@@ -19,6 +19,10 @@ The objective was to analyze transaction patterns, logistics timelines, and cust
 - Power BI & DAX Modeling
 - Relational Data Modeling (Star Schema & Cross-Filtering)
 
+## Schema
+
+![E-Commerce RTO Analysis Dashboard](Schema.png)
+
 ## Project Workflow
 
 1. Extracted and queried raw transactional data using **SSMS (SQL Server Management Studio)**, joining core operational tables (`orders`, `order_status_timeline`, `delivery_attempts`).
@@ -34,7 +38,7 @@ The objective was to analyze transaction patterns, logistics timelines, and cust
 
 ## Dashboard
 
-![E-Commerce RTO Analysis Dashboard](ecommerce_rto_analysis/Power BI Dashboard/Dashboard.png)
+![E-Commerce RTO Analysis Dashboard](Power%20BI%20Dashboard/Dashboard.png)
 
 ## Key Insights
 
