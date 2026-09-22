@@ -1,0 +1,421 @@
+product_id,product_name,category,subcategory,brand,mrp,weight_grams,is_fragile,seller_name,seller_warehouse_city,seller_warehouse_state,seller_warehouse_pincode,seller_rating,listing_date
+PROD00001,Earrings Combo - Premium Design,Jewellery & Cosmetics,Earrings Combo,Riya Collections,966,319,Yes,Ansari Trading Co,Gaya,Bihar,823009,4.4,2025-02-19
+PROD00002,Kids Frock - Casual Fit,Kids Wear,Kids Frock,Shree Krishna Textiles,1699,298,No,Menon Impex,Faridabad,Haryana,121049,3.9,2025-05-09
+PROD00003,Bedsheet Set - Casual Design,Home & Kitchen,Bedsheet Set,Comfort Zone India,1752,518,No,Gupta Impex,Bhopal,Madhya Pradesh,462058,,2024-05-27
+PROD00004,Kurti Set - Festive,Women Ethnic Wear,Kurti Set,Generic,991,248,No,Yadav Collections,Mumbai,Maharashtra,400032,,2025-07-17
+PROD00005,Formal Shoes - Daily Wear Fit,Footwear,Formal Shoes,Priya Creations,840,40,Yes,Agarwal Collections,Kolkata,West Bengal,700094,3,2024-04-27
+PROD00006,Window Curtain - Daily Wear Design,Home & Kitchen,Window Curtain,Divine Ethnic Wear,540,127,Yes,Khan Collections,Gaya,Bihar,823086,4.2,2025-06-03
+PROD00007,Saree - Daily Wear Fit,Women Ethnic Wear,Saree,Comfort Zone India,446,40,No,Mukherjee Textiles,Kanpur,Uttar Pradesh,208075,4.9,2024-12-10
+PROD00008,Bedsheet Set - Classic,Home & Kitchen,Bedsheet Set,Riya Collections,649,364,No,Reddy Collections,Guwahati,Assam,781084,3.1,2025-06-09
+PROD00009,Saree - Trendy Design,Women Ethnic Wear,Saree,Riya Collections,545,374,No,Malhotra Enterprises,Hubli,Karnataka,580078,3.3,2024-05-18
+PROD00010,Formal Shoes - Casual,Footwear,Formal Shoes,Divine Ethnic Wear,904,,Yes,Sharma Wholesale Mart,Rajkot,Gujarat,360030,3.8,2024-08-16
+PROD00011,Lehenga Choli - Trendy Fit,Women Ethnic Wear,Lehenga Choli,Riya Collections,528,757,Yes,Gupta Trading Co,New Delhi,Delhi,110066,4,2025-12-18
+PROD00012,Lehenga Choli - Casual Style,Women Ethnic Wear,Lehenga Choli,Metro Trendz,411,530,No,Rao Wholesale Mart,New Delhi,Delhi,110079,3.3,2024-12-08
+PROD00013,Kids Nightwear - Festive Style,Kids Wear,Kids Nightwear,Unbranded,825,40,No,Banerjee Impex,Kochi,Kerala,682006,3.2,2025-07-21
+PROD00014,Power Bank - Festive Style,Mobile Accessories,Power Bank,Metro Trendz,819,,No,Rathore Collections,Indore,Madhya Pradesh,452059,4.1,2024-08-16
+PROD00015,Kurti Set - Premium Style,Women Ethnic Wear,Kurti Set,Divine Ethnic Wear,690,283,No,Patel Impex,Faridabad,Haryana,121022,,2025-06-07
+PROD00016,Men'S Wallet - Premium Fit,Bags & Wallets,Men'S Wallet,Riya Collections,495,248,Yes,Menon Textiles,Bengaluru,Karnataka,560079,4.6,2024-04-25
+PROD00017,Window Curtain - Classic Design,Home & Kitchen,Window Curtain,Fashion Point Surat,888,40,No,Joshi Trading Co,Cuttack,Odisha,753037,4.2,2024-12-19
+PROD00018,Kajal Combo - Festive Style,Jewellery & Cosmetics,Kajal Combo,Aaradhya Fashion Hub,595,201,No,Das Enterprises,Lucknow,Uttar Pradesh,226028,4.4,2025-08-28
+PROD00019,Wired Earphones - Festive Fit,Mobile Accessories,Wired Earphones,Comfort Zone India,1296,554,Yes,Kumar Textiles,Mysuru,Karnataka,57006,,2025-09-05
+PROD00020,Photo Frame Set - Premium,Home Decor,Photo Frame Set,Metro Trendz,620,422,Yes,Das Collections,Lucknow,Uttar Pradesh,226009,4.6,2024-08-24
+PROD00021,Phone Back Cover - Classic,Mobile Accessories,Phone Back Cover,Style Bazaar Co,565,309,Yes,Mishra Textiles,Patna,Bihar,800059,3.3,2025-09-18
+PROD00022,Power Bank - Festive Style,Mobile Accessories,Power Bank,Comfort Zone India,381,528,Yes,Sharma Wholesale Mart,Kanpur,Uttar Pradesh,208006,4.8,2024-09-22
+PROD00023,Wall Clock - Trendy Fit,Home Decor,Wall Clock,Metro Trendz,707,570,Yes,Chauhan Impex,Thiruvananthapuram,Kerala,695020,4.2,2025-12-01
+PROD00024,Phone Back Cover - Daily Wear Style,Mobile Accessories,Phone Back Cover,Fashion Point Surat,516,429,No,Kumar Trading Co,Mysuru,Karnataka,570081,4.9,2024-12-17
+PROD00025,Boys T-Shirt Set - Premium Fit,Kids Wear,Boys T-Shirt Set,Unbranded,721,694,Yes,Iyer Wholesale Mart,Lucknow,Uttar Pradesh,226063,2.4,2024-03-20
+PROD00026,Denim Jeans - Casual,Men Fashion,Denim Jeans,Metro Trendz,1155,369,Yes,Singh Wholesale Mart,Jamshedpur,Jharkhand,831055,3.8,2024-03-07
+PROD00027,School Backpack - Festive,Bags & Wallets,School Backpack,Style Bazaar Co,773,40,Yes,Sheikh Enterprises,Coimbatore,Tamil Nadu,641050,3.9,2024-11-07
+PROD00028,Bangles Set - Trendy Style,Jewellery & Cosmetics,Bangles Set,Aaradhya Fashion Hub,895,,Yes,Das Impex,Kanpur,Uttar Pradesh,208037,3.7,2024-12-23
+PROD00029,Power Bank - Classic Style,Mobile Accessories,Power Bank,Metro Trendz,471,239,Yes,Singh Impex,Chandigarh,Chandigarh,160069,4.5,2024-07-24
+PROD00030,Wired Earphones - Festive Style,Mobile Accessories,Wired Earphones,Divine Ethnic Wear,881,233,No,Mukherjee Enterprises,Guwahati,Assam,781066,,2024-06-26
+PROD00031,Storage Container Set - Premium Style,Home & Kitchen,Storage Container Set,Divine Ethnic Wear,775,563,Yes,Mishra Enterprises,Indore,Madhya Pradesh,452000,3.6,2025-05-26
+PROD00032,Kurti Set - Classic Design,Women Ethnic Wear,Kurti Set,Fashion Point Surat,614,263,Yes,Patel Wholesale Mart,Coimbatore,Tamil Nadu,641077,3.1,2026-01-02
+PROD00033,Cotton Shirt - Trendy Design,Men Fashion,Cotton Shirt,No Brand,865,407,No,Sharma Trading Co,Mumbai,Maharashtra,400043,4,2024-12-28
+PROD00034,Ladies Handbag - Premium Design,Bags & Wallets,Ladies Handbag,Unbranded,646,40,Yes,Gupta Enterprises,Hyderabad,Telangana,500086,3.7,2025-10-26
+PROD00035,Slippers - Premium Fit,Footwear,Slippers,No Brand,609,173,Yes,Sheikh Textiles,Kanpur,Uttar Pradesh,208045,3.9,2025-08-01
+PROD00036,Kids Frock - Trendy Style,Kids Wear,Kids Frock,Om Wholesale Mart,918,764,Yes,Nair Trading Co,Surat,Gujarat,395045,4.1,2024-05-27
+PROD00037,School Backpack - Trendy Design,Bags & Wallets,School Backpack,Priya Creations,847,333,Yes,Ansari Textiles,Jaipur,Rajasthan,302065,2.8,2025-04-23
+PROD00038,Men'S Wallet - Classic Design,Bags & Wallets,Men'S Wallet,Shree Krishna Textiles,724,363,No,Yadav Collections,Nagpur,Maharashtra,440087,5,2025-01-09
+PROD00039,Kids Frock - Casual Style,Kids Wear,Kids Frock,Style Bazaar Co,661,416,No,Patel Enterprises,Guwahati,Assam,781039,4,2024-04-10
+PROD00040,Storage Container Set - Classic Fit,Home & Kitchen,Storage Container Set,Riya Collections,387,601,No,Khan Wholesale Mart,Hyderabad,Telangana,500012,,2025-08-19
+PROD00041,Power Bank - Premium Fit,Mobile Accessories,Power Bank,Shree Krishna Textiles,1136,149,No,Menon Collections,Hyderabad,Telangana,500035,4.8,2025-06-14
+PROD00042,Casual T-Shirt - Classic Design,Men Fashion,Casual T-Shirt,Fashion Point Surat,340,479,Yes,Joshi Trading Co,Surat,Gujarat,395094,,2025-06-18
+PROD00043,Kurti Set - Festive,Women Ethnic Wear,Kurti Set,Unbranded,426,225,No,Bhatt Impex,Jaipur,Rajasthan,302096,4.1,2025-06-02
+PROD00044,Phone Back Cover - Festive Style,Mobile Accessories,Phone Back Cover,Divine Ethnic Wear,557,40,No,Iyer Impex,Asansol,West Bengal,713050,4,2024-08-11
+PROD00045,Slippers - Festive,Footwear,Slippers,Metro Trendz,410,454,No,Pillai Impex,Jamshedpur,Jharkhand,831051,3.4,2025-07-02
+PROD00046,School Backpack - Festive Style,Bags & Wallets,School Backpack,Shree Krishna Textiles,1724,177,No,Banerjee Wholesale Mart,Madurai,Tamil Nadu,625001,3.8,2024-04-26
+PROD00047,Artificial Plant Pot - Trendy Fit,Home Decor,Artificial Plant Pot,Shree Krishna Textiles,1150,79,Yes,Das Collections,Mumbai,Maharashtra,400067,4.1,2024-05-25
+PROD00048,Track Pant - Festive,Men Fashion,Track Pant,Style Bazaar Co,1509,40,No,Sheikh Collections,Indore,Madhya Pradesh,452059,4.1,2025-01-14
+PROD00049,Salwar Suit - Trendy Fit,Women Ethnic Wear,Salwar Suit,Shree Krishna Textiles,848,522,Yes,Ansari Impex,Muzaffarpur,Bihar,842044,3.3,2025-06-19
+PROD00050,Saree - Classic Style,Women Ethnic Wear,Saree,Shree Krishna Textiles,356,464,No,Mukherjee Wholesale Mart,Thiruvananthapuram,Kerala,695037,4.2,2025-05-23
+PROD00051,Kajal Combo - Classic Fit,Jewellery & Cosmetics,Kajal Combo,Fashion Point Surat,844,426,Yes,Ansari Textiles,Warangal,Telangana,506037,3.6,2025-04-11
+PROD00052,Wall Clock - Premium Design,Home Decor,Wall Clock,No Brand,835,414,Yes,Pillai Trading Co,Amritsar,Punjab,143083,3.6,2024-10-30
+PROD00053,Kajal Combo - Daily Wear Fit,Jewellery & Cosmetics,Kajal Combo,Divine Ethnic Wear,2051,454,Yes,Patel Collections,Thiruvananthapuram,Kerala,695070,3.3,2024-07-02
+PROD00054,Men'S Wallet - Casual Style,Bags & Wallets,Men'S Wallet,Style Bazaar Co,1055,135,Yes,Desai Impex,Indore,Madhya Pradesh,452080,4.5,2024-05-05
+PROD00055,Wired Earphones - Casual,Mobile Accessories,Wired Earphones,Unbranded,1390,169,Yes,Das Impex,Madurai,Tamil Nadu,625091,4.6,2024-07-26
+PROD00056,Kurti Set - Premium,Women Ethnic Wear,Kurti Set,Riya Collections,922,530,No,Gupta Collections,Mumbai,Maharashtra,400015,5,2024-08-27
+PROD00057,Earrings Combo - Casual Design,Jewellery & Cosmetics,Earrings Combo,Style Bazaar Co,642,184,Yes,Banerjee Wholesale Mart,Jamshedpur,Jharkhand,831029,3.5,2024-04-04
+PROD00058,Artificial Plant Pot - Classic Style,Home Decor,Artificial Plant Pot,Style Bazaar Co,469,333,Yes,Chatterjee Wholesale Mart,Surat,Gujarat,395029,4.2,2025-04-25
+PROD00059,Wired Earphones - Classic Fit,Mobile Accessories,Wired Earphones,Priya Creations,856,531,No,Patel Trading Co,Lucknow,Uttar Pradesh,226098,4,2025-04-26
+PROD00060,Denim Jeans - Festive Design,Men Fashion,Denim Jeans,Fashion Point Surat,1635,291,No,Sharma Impex,Mysuru,Karnataka,570040,5,2025-03-15
+PROD00061,Flat Sandals - Premium Design,Footwear,Flat Sandals,No Brand,1037,161,No,Das Collections,Ludhiana,Punjab,141068,3.4,2025-06-19
+PROD00062,Flat Sandals - Daily Wear Style,Footwear,Flat Sandals,Unbranded,958,300,Yes,Nair Impex,Rajkot,Gujarat,360069,4.4,2024-06-08
+PROD00063,Phone Back Cover - Festive Fit,Mobile Accessories,Phone Back Cover,Om Wholesale Mart,954,333,Yes,Sharma Trading Co,Ghaziabad,Uttar Pradesh,201004,3.5,2024-06-23
+PROD00064,School Backpack - Premium Style,Bags & Wallets,School Backpack,Aaradhya Fashion Hub,320,251,Yes,Agarwal Collections,Amritsar,Punjab,143068,4.5,2024-08-10
+PROD00065,Flat Sandals - Classic Style,Footwear,Flat Sandals,Riya Collections,827,75,Yes,Singh Textiles,Jaipur,Rajasthan,302017,4.1,2024-07-20
+PROD00066,School Backpack - Premium Design,Bags & Wallets,School Backpack,No Brand,909,155,Yes,Banerjee Wholesale Mart,Ludhiana,Punjab,141016,4.1,2025-12-27
+PROD00067,Kids Nightwear - Casual Design,Kids Wear,Kids Nightwear,Divine Ethnic Wear,759,98,Yes,Mishra Collections,Chennai,Tamil Nadu,600053,4.2,2024-05-22
+PROD00068,Flat Sandals - Trendy Fit,Footwear,Flat Sandals,Unbranded,1001,588,No,Patel Enterprises,New Delhi,Delhi,110060,4.6,2025-04-16
+PROD00069,Lipstick Combo - Trendy Fit,Jewellery & Cosmetics,Lipstick Combo,Generic,345,143,No,Agarwal Impex,Guwahati,Assam,781040,4.3,2024-08-22
+PROD00070,Kurti Set - Trendy Design,Women Ethnic Wear,Kurti Set,Comfort Zone India,975,463,No,Sharma Trading Co,Bhopal,Madhya Pradesh,462094,5,2024-03-10
+PROD00071,Track Pant - Trendy,Men Fashion,Track Pant,Shree Krishna Textiles,1006,599,No,Mishra Collections,Chandigarh,Chandigarh,160014,4.6,2025-03-01
+PROD00072,Earrings Combo - Trendy Style,Jewellery & Cosmetics,Earrings Combo,Priya Creations,1052,280,Yes,Sheikh Collections,Lucknow,Uttar Pradesh,226062,4.5,2025-07-23
+PROD00073,Wired Earphones - Classic Fit,Mobile Accessories,Wired Earphones,Om Wholesale Mart,481,297,No,Rao Enterprises,Chennai,Tamil Nadu,600077,3.7,2024-05-23
+PROD00074,Slippers - Casual Design,Footwear,Slippers,Divine Ethnic Wear,769,859,No,Joshi Enterprises,Ahmedabad,Gujarat,380015,2.9,2025-08-01
+PROD00075,Window Curtain - Daily Wear Style,Home & Kitchen,Window Curtain,Priya Creations,1072,40,Yes,Sheikh Wholesale Mart,Surat,Gujarat,395045,3.7,2025-06-29
+PROD00076,Slippers - Premium Design,Footwear,Slippers,Unbranded,1338,364,Yes,Sharma Textiles,Muzaffarpur,Bihar,842027,3.4,2024-09-01
+PROD00077,Flat Sandals - Trendy Design,Footwear,Flat Sandals,No Brand,496,499,Yes,Iyer Impex,Faridabad,Haryana,121058,3.6,2024-05-05
+PROD00078,Kurti Set - Festive,Women Ethnic Wear,Kurti Set,Fashion Point Surat,828,360,Yes,Reddy Trading Co,Kanpur,Uttar Pradesh,208022,3.6,2024-03-17
+PROD00079,Non-Stick Pan - Festive,Home & Kitchen,Non-Stick Pan,Shree Krishna Textiles,2390,489,Yes,Mishra Trading Co,Jodhpur,Rajasthan,342075,2.8,2025-01-16
+PROD00080,Lehenga Choli - Daily Wear Fit,Women Ethnic Wear,Lehenga Choli,Unbranded,814,204,No,Joshi Enterprises,Lucknow,Uttar Pradesh,226006,4.5,2025-08-25
+PROD00081,Boys T-Shirt Set - Daily Wear,Kids Wear,Boys T-Shirt Set,Priya Creations,475,324,Yes,Chauhan Collections,Kochi,Kerala,682092,4.3,2024-07-27
+PROD00082,Ladies Handbag - Premium Design,Bags & Wallets,Ladies Handbag,Comfort Zone India,1183,85,Yes,Shah Trading Co,Udaipur,Rajasthan,313009,3.8,2024-06-30
+PROD00083,Photo Frame Set - Trendy,Home Decor,Photo Frame Set,Unbranded,566,206,Yes,Mukherjee Wholesale Mart,Pune,Maharashtra,411005,,2025-04-01
+PROD00084,Denim Jeans - Premium Fit,Men Fashion,Denim Jeans,Om Wholesale Mart,918,72,No,Rathore Wholesale Mart,New Delhi,Delhi,110020,4.6,2024-07-31
+PROD00085,Artificial Plant Pot - Festive Fit,Home Decor,Artificial Plant Pot,Unbranded,2362,577,No,Mukherjee Enterprises,Jodhpur,Rajasthan,342019,3.1,2025-06-26
+PROD00086,Kids Frock - Casual Style,Kids Wear,Kids Frock,Priya Creations,563,628,No,Naidu Wholesale Mart,Muzaffarpur,Bihar,842010,,2024-10-29
+PROD00087,Artificial Plant Pot - Classic,Home Decor,Artificial Plant Pot,Unbranded,938,520,Yes,Menon Wholesale Mart,Warangal,Telangana,506000,3.4,2025-05-30
+PROD00088,Lehenga Choli - Trendy,Women Ethnic Wear,Lehenga Choli,Divine Ethnic Wear,711,40,Yes,Mukherjee Wholesale Mart,Chennai,Tamil Nadu,600037,,2025-09-25
+PROD00089,Saree - Casual,Women Ethnic Wear,Saree,Style Bazaar Co,640,75,No,Desai Trading Co,Pune,Maharashtra,411056,5,2025-01-05
+PROD00090,Saree - Trendy Design,Women Ethnic Wear,Saree,Aaradhya Fashion Hub,335,253,No,Joshi Impex,Nashik,Maharashtra,42203,4.1,2025-06-07
+PROD00091,Artificial Plant Pot - Classic Fit,Home Decor,Artificial Plant Pot,No Brand,1624,40,Yes,Joshi Textiles,Mumbai,Maharashtra,400062,4.7,2024-08-09
+PROD00092,Casual T-Shirt - Classic Fit,Men Fashion,Casual T-Shirt,Riya Collections,739,134,No,Gupta Wholesale Mart,Guwahati,Assam,781028,4.3,2025-09-25
+PROD00093,School Backpack - Casual Fit,Bags & Wallets,School Backpack,Metro Trendz,820,217,No,Das Collections,Muzaffarpur,Bihar,842016,,2024-09-16
+PROD00094,Window Curtain - Trendy Design,Home & Kitchen,Window Curtain,Riya Collections,595,374,No,Mishra Enterprises,Gurugram,Haryana,122006,,2024-04-24
+PROD00095,Track Pant - Trendy Design,Men Fashion,Track Pant,No Brand,1759,77,No,Yadav Trading Co,Ludhiana,Punjab,141031,5,2024-11-17
+PROD00096,Flat Sandals - Classic Style,Footwear,Flat Sandals,Aaradhya Fashion Hub,251,316,Yes,Sheikh Collections,New Delhi,Delhi,110082,4.4,2024-08-13
+PROD00097,Casual T-Shirt - Premium Design,Men Fashion,Casual T-Shirt,Generic,858,213,No,Rathore Trading Co,Agra,Uttar Pradesh,282085,3.9,2024-08-22
+PROD00098,Window Curtain - Premium Style,Home & Kitchen,Window Curtain,Metro Trendz,561,220,Yes,Singh Impex,Ludhiana,Punjab,141033,,2025-11-04
+PROD00099,Tempered Glass - Casual,Mobile Accessories,Tempered Glass,Unbranded,895,197,No,Nair Wholesale Mart,Surat,Gujarat,395084,4.5,2024-07-11
+PROD00100,Tempered Glass - Premium Fit,Mobile Accessories,Tempered Glass,No Brand,870,528,No,Nair Wholesale Mart,Guwahati,Assam,781054,4.4,2025-09-12
+PROD00101,Kajal Combo - Daily Wear Design,Jewellery & Cosmetics,Kajal Combo,Shree Krishna Textiles,466,226,Yes,Iyer Trading Co,New Delhi,Delhi,110031,4.4,2025-10-24
+PROD00102,Phone Back Cover - Classic Style,Mobile Accessories,Phone Back Cover,Shree Krishna Textiles,1028,345,No,Desai Wholesale Mart,Rajkot,Gujarat,360078,4.1,2024-11-26
+PROD00103,Kurti Set - Trendy Fit,Women Ethnic Wear,Kurti Set,Shree Krishna Textiles,1484,219,Yes,Mishra Wholesale Mart,Mysuru,Karnataka,570041,4.3,2024-12-12
+PROD00104,Bedsheet Set - Casual Design,Home & Kitchen,Bedsheet Set,Comfort Zone India,658,302,No,Joshi Trading Co,Hubli,Karnataka,580084,4.7,2025-05-12
+PROD00105,Kurti Set - Daily Wear Design,Women Ethnic Wear,Kurti Set,Style Bazaar Co,1157,528,No,Rao Wholesale Mart,Rajkot,Gujarat,360011,4.8,2024-07-18
+PROD00106,Lipstick Combo - Trendy,Jewellery & Cosmetics,Lipstick Combo,Unbranded,744,500,Yes,Das Impex,Nashik,Maharashtra,422080,3.8,2025-01-19
+PROD00107,Salwar Suit - Classic,Women Ethnic Wear,Salwar Suit,Divine Ethnic Wear,879,321,No,Bhatt Trading Co,Mysuru,Karnataka,570000,4.1,2024-08-25
+PROD00108,Slippers - Classic Fit,Footwear,Slippers,Aaradhya Fashion Hub,1020,169,No,Reddy Trading Co,Madurai,Tamil Nadu,625049,5,2026-01-07
+PROD00109,Boys T-Shirt Set - Daily Wear,Kids Wear,Boys T-Shirt Set,Aaradhya Fashion Hub,423,82,Yes,Naidu Enterprises,Mysuru,Karnataka,570044,4.7,2024-12-17
+PROD00110,Kids Nightwear - Festive,Kids Wear,Kids Nightwear,No Brand,1136,487,Yes,Verma Collections,Gwalior,Madhya Pradesh,474014,4.4,2024-05-23
+PROD00111,Phone Back Cover - Trendy Design,Mobile Accessories,Phone Back Cover,Unbranded,730,152,No,Shah Impex,Udaipur,Rajasthan,313041,4,2025-08-08
+PROD00112,Cotton Shirt - Festive Fit,Men Fashion,Cotton Shirt,Unbranded,507,564,No,Gupta Enterprises,Cuttack,Odisha,753069,3.9,2025-01-09
+PROD00113,Casual T-Shirt - Festive Fit,Men Fashion,Casual T-Shirt,Comfort Zone India,467,279,No,Gupta Wholesale Mart,Chennai,Tamil Nadu,600024,4.2,2024-12-13
+PROD00114,Photo Frame Set - Festive Style,Home Decor,Photo Frame Set,Fashion Point Surat,539,169,Yes,Singh Textiles,Chandigarh,Chandigarh,160035,4.1,2025-09-28
+PROD00115,Casual Sneakers - Premium Style,Footwear,Casual Sneakers,Comfort Zone India,841,238,No,Rathore Trading Co,Nashik,Maharashtra,422091,3.7,2025-02-21
+PROD00116,Saree - Premium Design,Women Ethnic Wear,Saree,Generic,835,40,Yes,Verma Collections,Kanpur,Uttar Pradesh,208077,3.2,2025-06-29
+PROD00117,Power Bank - Trendy,Mobile Accessories,Power Bank,Aaradhya Fashion Hub,495,303,No,Gupta Wholesale Mart,Jamshedpur,Jharkhand,831031,4.2,2025-11-25
+PROD00118,Bedsheet Set - Daily Wear Style,Home & Kitchen,Bedsheet Set,Shree Krishna Textiles,1655,538,No,Verma Textiles,Guwahati,Assam,781045,,2025-06-12
+PROD00119,Storage Container Set - Daily Wear,Home & Kitchen,Storage Container Set,Fashion Point Surat,727,129,No,Bhatt Textiles,Hubli,Karnataka,580071,4,2024-07-15
+PROD00120,Casual T-Shirt - Premium Fit,Men Fashion,Casual T-Shirt,Comfort Zone India,627,420,No,Desai Textiles,Jamshedpur,Jharkhand,831032,3.5,2024-11-18
+PROD00121,Tempered Glass - Daily Wear,Mobile Accessories,Tempered Glass,Divine Ethnic Wear,978,687,No,Nair Impex,Udaipur,Rajasthan,313031,3.9,2025-05-27
+PROD00122,Storage Container Set - Premium,Home & Kitchen,Storage Container Set,No Brand,917,501,No,Singh Enterprises,Hyderabad,Telangana,500060,3.8,2025-07-17
+PROD00123,Kids Frock - Trendy Style,Kids Wear,Kids Frock,Fashion Point Surat,832,352,No,Gupta Trading Co,Nashik,Maharashtra,422075,,2024-10-29
+PROD00124,Tempered Glass - Casual,Mobile Accessories,Tempered Glass,No Brand,481,355,Yes,Pillai Trading Co,Cuttack,Odisha,753090,,2024-07-28
+PROD00125,Photo Frame Set - Trendy Design,Home Decor,Photo Frame Set,Metro Trendz,1633,561,No,Yadav Trading Co,Mumbai,Maharashtra,400018,5,2024-05-16
+PROD00126,Non-Stick Pan - Daily Wear Fit,Home & Kitchen,Non-Stick Pan,Unbranded,482,541,Yes,Verma Collections,Cuttack,Odisha,753090,4.1,2025-04-20
+PROD00127,Storage Container Set - Daily Wear Style,Home & Kitchen,Storage Container Set,Riya Collections,2451,172,Yes,Yadav Impex,Ghaziabad,Uttar Pradesh,201081,3.5,2025-12-19
+PROD00128,School Backpack - Trendy Style,Bags & Wallets,School Backpack,Metro Trendz,529,40,Yes,Joshi Trading Co,Guwahati,Assam,781000,3.7,2024-11-16
+PROD00129,Boys T-Shirt Set - Casual Style,Kids Wear,Boys T-Shirt Set,Divine Ethnic Wear,484,383,No,Khan Impex,Lucknow,Uttar Pradesh,226017,4.2,2025-04-14
+PROD00130,Lipstick Combo - Classic Style,Jewellery & Cosmetics,Lipstick Combo,Divine Ethnic Wear,2063,559,No,Gupta Textiles,Kanpur,Uttar Pradesh,208096,3.7,2025-07-29
+PROD00131,Bangles Set - Festive Design,Jewellery & Cosmetics,Bangles Set,Metro Trendz,448,458,Yes,Nair Textiles,Gwalior,Madhya Pradesh,474062,,2025-07-30
+PROD00132,Casual Sneakers - Festive,Footwear,Casual Sneakers,Style Bazaar Co,2013,609,Yes,Chauhan Trading Co,Bhubaneswar,Odisha,751073,3.7,2024-05-02
+PROD00133,Slippers - Trendy Style,Footwear,Slippers,Style Bazaar Co,287,647,Yes,Khan Enterprises,Lucknow,Uttar Pradesh,226057,3.9,2024-05-03
+PROD00134,Wall Clock - Premium Style,Home Decor,Wall Clock,Generic,1452,40,No,Malhotra Wholesale Mart,Kanpur,Uttar Pradesh,208034,3.6,2025-10-28
+PROD00135,Phone Back Cover - Daily Wear Design,Mobile Accessories,Phone Back Cover,Aaradhya Fashion Hub,737,360,No,Verma Impex,Ludhiana,Punjab,141079,3.7,2025-09-22
+PROD00136,Salwar Suit - Premium Design,Women Ethnic Wear,Salwar Suit,Om Wholesale Mart,1035,115,Yes,Iyer Wholesale Mart,Surat,Gujarat,395064,3.9,2024-06-30
+PROD00137,Non-Stick Pan - Premium Design,Home & Kitchen,Non-Stick Pan,Priya Creations,785,463,Yes,Reddy Wholesale Mart,Bhopal,Madhya Pradesh,462054,4.4,2025-01-06
+PROD00138,Lehenga Choli - Premium Design,Women Ethnic Wear,Lehenga Choli,Metro Trendz,396,40,No,Menon Enterprises,Hubli,Karnataka,580075,,2024-09-19
+PROD00139,Salwar Suit - Festive Style,Women Ethnic Wear,Salwar Suit,Riya Collections,883,185,Yes,Pillai Trading Co,Surat,Gujarat,395013,,2024-12-07
+PROD00140,Artificial Plant Pot - Daily Wear Design,Home Decor,Artificial Plant Pot,Divine Ethnic Wear,783,609,No,Mukherjee Collections,Warangal,Telangana,506026,4,2025-09-12
+PROD00141,Slippers - Classic Design,Footwear,Slippers,Om Wholesale Mart,2283,736,Yes,Shah Enterprises,Lucknow,Uttar Pradesh,226005,3.9,2025-08-11
+PROD00142,Denim Jeans - Casual Design,Men Fashion,Denim Jeans,Unbranded,1254,491,Yes,Sharma Textiles,Siliguri,West Bengal,734002,4.8,2025-10-29
+PROD00143,Denim Jeans - Daily Wear Style,Men Fashion,Denim Jeans,Fashion Point Surat,432,500,Yes,Malhotra Wholesale Mart,Coimbatore,Tamil Nadu,641082,4.6,2024-05-26
+PROD00144,Bedsheet Set - Trendy Fit,Home & Kitchen,Bedsheet Set,Metro Trendz,279,89,Yes,Verma Enterprises,Indore,Madhya Pradesh,452089,2.8,2025-09-18
+PROD00145,Lipstick Combo - Classic Design,Jewellery & Cosmetics,Lipstick Combo,Unbranded,634,507,No,Chatterjee Impex,Ranchi,Jharkhand,834027,4.9,2024-03-26
+PROD00146,Slippers - Daily Wear,Footwear,Slippers,Shree Krishna Textiles,766,708,No,Agarwal Trading Co,Udaipur,Rajasthan,313037,3.2,2025-05-05
+PROD00147,Kajal Combo - Premium Style,Jewellery & Cosmetics,Kajal Combo,Shree Krishna Textiles,288,337,No,Desai Trading Co,Warangal,Telangana,506081,4.2,2024-05-27
+PROD00148,Power Bank - Classic Style,Mobile Accessories,Power Bank,Riya Collections,722,40,No,Shah Trading Co,New Delhi,Delhi,11000,3.9,2025-08-04
+PROD00149,Formal Shoes - Premium,Footwear,Formal Shoes,Riya Collections,359,497,Yes,Bhatt Enterprises,Bhopal,Madhya Pradesh,462018,4.2,2025-03-01
+PROD00150,Kids Nightwear - Festive Style,Kids Wear,Kids Nightwear,Comfort Zone India,438,236,No,Sheikh Collections,Patna,Bihar,800019,3.4,2024-07-19
+PROD00151,Bedsheet Set - Casual Fit,Home & Kitchen,Bedsheet Set,Om Wholesale Mart,710,560,Yes,Verma Wholesale Mart,Patna,Bihar,800057,3.4,2025-02-27
+PROD00152,Cotton Shirt - Trendy Style,Men Fashion,Cotton Shirt,Priya Creations,970,233,Yes,Rathore Enterprises,Pune,Maharashtra,411045,3.5,2024-05-19
+PROD00153,Window Curtain - Casual,Home & Kitchen,Window Curtain,Fashion Point Surat,693,122,Yes,Sheikh Trading Co,Nagpur,Maharashtra,440078,3.7,2025-11-20
+PROD00154,Salwar Suit - Daily Wear Design,Women Ethnic Wear,Salwar Suit,No Brand,380,782,Yes,Shah Enterprises,Pune,Maharashtra,411016,4,2024-08-29
+PROD00155,School Backpack - Daily Wear Design,Bags & Wallets,School Backpack,Generic,500,397,No,Rao Enterprises,Madurai,Tamil Nadu,625088,,2024-05-31
+PROD00156,Kids Frock - Festive Style,Kids Wear,Kids Frock,Divine Ethnic Wear,651,485,Yes,Banerjee Trading Co,Ghaziabad,Uttar Pradesh,201001,4.5,2024-12-09
+PROD00157,Bangles Set - Premium,Jewellery & Cosmetics,Bangles Set,Generic,549,223,Yes,Desai Trading Co,Asansol,West Bengal,713036,3.8,2024-06-16
+PROD00158,Cotton Shirt - Classic Fit,Men Fashion,Cotton Shirt,Riya Collections,207,40,Yes,Mukherjee Wholesale Mart,Chennai,Tamil Nadu,600041,,2025-10-27
+PROD00159,Photo Frame Set - Festive,Home Decor,Photo Frame Set,Fashion Point Surat,1817,295,No,Pillai Wholesale Mart,Chandigarh,Chandigarh,160014,4.3,2025-09-28
+PROD00160,Non-Stick Pan - Premium Style,Home & Kitchen,Non-Stick Pan,Shree Krishna Textiles,872,1027,No,Reddy Textiles,Gwalior,Madhya Pradesh,474098,,2025-01-10
+PROD00161,Denim Jeans - Classic Design,Men Fashion,Denim Jeans,Aaradhya Fashion Hub,685,139,Yes,Banerjee Collections,Siliguri,West Bengal,734013,3,2024-06-09
+PROD00162,Tempered Glass - Premium Fit,Mobile Accessories,Tempered Glass,Metro Trendz,822,183,Yes,Patel Collections,Pune,Maharashtra,411078,3.1,2024-08-25
+PROD00163,Men'S Wallet - Premium Style,Bags & Wallets,Men'S Wallet,Riya Collections,515,112,Yes,Nair Enterprises,Chennai,Tamil Nadu,600049,5,2025-10-22
+PROD00164,Track Pant - Daily Wear,Men Fashion,Track Pant,Priya Creations,1194,348,No,Sharma Enterprises,Asansol,West Bengal,713023,4.9,2024-06-22
+PROD00165,Artificial Plant Pot - Daily Wear,Home Decor,Artificial Plant Pot,Divine Ethnic Wear,767,160,No,Sheikh Wholesale Mart,Nagpur,Maharashtra,440049,4.9,2024-11-27
+PROD00166,Casual Sneakers - Trendy Design,Footwear,Casual Sneakers,Style Bazaar Co,989,121,No,Sheikh Trading Co,Warangal,Telangana,506090,3.9,2024-04-08
+PROD00167,Artificial Plant Pot - Premium Fit,Home Decor,Artificial Plant Pot,Om Wholesale Mart,454,45,No,Yadav Textiles,Patna,Bihar,800032,4.6,2025-02-16
+PROD00168,Power Bank - Trendy Style,Mobile Accessories,Power Bank,Metro Trendz,2101,42,No,Malhotra Wholesale Mart,Warangal,Telangana,506032,,2025-11-15
+PROD00169,Bangles Set - Festive,Jewellery & Cosmetics,Bangles Set,Fashion Point Surat,514,242,Yes,Ansari Wholesale Mart,Cuttack,Odisha,753080,3.6,2025-04-29
+PROD00170,Casual Sneakers - Trendy Fit,Footwear,Casual Sneakers,Generic,457,360,No,Das Textiles,Madurai,Tamil Nadu,625031,3.5,2025-06-25
+PROD00171,Lehenga Choli - Trendy Design,Women Ethnic Wear,Lehenga Choli,Unbranded,853,338,No,Malhotra Wholesale Mart,Warangal,Telangana,506047,3.9,2025-03-01
+PROD00172,Kajal Combo - Classic,Jewellery & Cosmetics,Kajal Combo,No Brand,446,223,No,Rao Collections,Udaipur,Rajasthan,313097,,2025-10-07
+PROD00173,Ladies Handbag - Casual Fit,Bags & Wallets,Ladies Handbag,Metro Trendz,968,134,Yes,Malhotra Impex,Madurai,Tamil Nadu,625066,4.1,2025-08-29
+PROD00174,Tempered Glass - Festive Design,Mobile Accessories,Tempered Glass,Style Bazaar Co,1111,,No,Kumar Trading Co,Mysuru,Karnataka,570081,4.3,2025-07-03
+PROD00175,Photo Frame Set - Trendy Design,Home Decor,Photo Frame Set,Fashion Point Surat,511,475,No,Agarwal Enterprises,Chandigarh,Chandigarh,160028,3.5,2025-09-15
+PROD00176,Photo Frame Set - Festive Fit,Home Decor,Photo Frame Set,Comfort Zone India,272,40,No,Menon Impex,Madurai,Tamil Nadu,625018,,2025-07-05
+PROD00177,Casual Sneakers - Festive,Footwear,Casual Sneakers,Metro Trendz,848,151,No,Banerjee Collections,Bengaluru,Karnataka,560074,,2025-11-16
+PROD00178,Lehenga Choli - Premium Style,Women Ethnic Wear,Lehenga Choli,Riya Collections,295,335,Yes,Mukherjee Impex,Agra,Uttar Pradesh,282015,3.3,2025-03-28
+PROD00179,Kids Frock - Daily Wear Design,Kids Wear,Kids Frock,Fashion Point Surat,514,360,No,Ansari Impex,Thiruvananthapuram,Kerala,695007,3.5,2024-08-24
+PROD00180,Slippers - Festive Fit,Footwear,Slippers,Divine Ethnic Wear,595,571,No,Kumar Collections,New Delhi,Delhi,11003,3.7,2025-04-30
+PROD00181,Men'S Wallet - Casual Style,Bags & Wallets,Men'S Wallet,Generic,1164,101,Yes,Kumar Trading Co,Asansol,West Bengal,713017,,2024-03-04
+PROD00182,Formal Shoes - Casual Design,Footwear,Formal Shoes,No Brand,1624,40,Yes,Rao Enterprises,Jodhpur,Rajasthan,342089,,2025-05-01
+PROD00183,Bedsheet Set - Casual Style,Home & Kitchen,Bedsheet Set,No Brand,1010,305,Yes,Verma Wholesale Mart,Ghaziabad,Uttar Pradesh,201042,4.2,2025-12-20
+PROD00184,Lipstick Combo - Daily Wear,Jewellery & Cosmetics,Lipstick Combo,No Brand,527,369,Yes,Joshi Impex,Patna,Bihar,800073,3.9,2025-10-11
+PROD00185,Ladies Handbag - Trendy Style,Bags & Wallets,Ladies Handbag,No Brand,1397,405,Yes,Ansari Wholesale Mart,Patna,Bihar,800073,4.2,2025-04-01
+PROD00186,Wall Clock - Classic Style,Home Decor,Wall Clock,Fashion Point Surat,586,242,No,Joshi Textiles,Amritsar,Punjab,143074,3.7,2024-03-15
+PROD00187,Artificial Plant Pot - Premium Design,Home Decor,Artificial Plant Pot,Divine Ethnic Wear,913,257,No,Khan Enterprises,Kolkata,West Bengal,700050,4.2,2024-07-08
+PROD00188,Saree - Premium Design,Women Ethnic Wear,Saree,Unbranded,2302,,No,Patel Enterprises,Ranchi,Jharkhand,834023,3.8,2025-10-19
+PROD00189,Cotton Shirt - Casual Style,Men Fashion,Cotton Shirt,Divine Ethnic Wear,1423,260,No,Mukherjee Enterprises,Gwalior,Madhya Pradesh,474045,,2024-10-25
+PROD00190,Slippers - Casual Style,Footwear,Slippers,Comfort Zone India,422,40,No,Verma Enterprises,Ghaziabad,Uttar Pradesh,201010,3.8,2025-09-08
+PROD00191,Flat Sandals - Premium,Footwear,Flat Sandals,Om Wholesale Mart,743,718,No,Kumar Textiles,Guwahati,Assam,781096,4.2,2024-10-16
+PROD00192,Wall Clock - Premium Style,Home Decor,Wall Clock,Style Bazaar Co,652,532,No,Naidu Wholesale Mart,Bhopal,Madhya Pradesh,462056,2.7,2025-04-03
+PROD00193,Casual T-Shirt - Casual Design,Men Fashion,Casual T-Shirt,Fashion Point Surat,837,519,Yes,Singh Impex,Lucknow,Uttar Pradesh,226026,3.1,2025-08-11
+PROD00194,Lehenga Choli - Casual Design,Women Ethnic Wear,Lehenga Choli,Unbranded,1379,424,Yes,Nair Impex,Agra,Uttar Pradesh,282041,3.8,2025-05-11
+PROD00195,Flat Sandals - Casual Fit,Footwear,Flat Sandals,Aaradhya Fashion Hub,1041,849,No,Sharma Wholesale Mart,Rajkot,Gujarat,360098,,2024-08-21
+PROD00196,Lipstick Combo - Trendy,Jewellery & Cosmetics,Lipstick Combo,Riya Collections,843,248,Yes,Ansari Wholesale Mart,Hyderabad,Telangana,500050,3.5,2025-07-15
+PROD00197,Flat Sandals - Classic,Footwear,Flat Sandals,Aaradhya Fashion Hub,1161,161,Yes,Bhatt Impex,Rajkot,Gujarat,360052,,2024-07-14
+PROD00198,Cotton Shirt - Premium,Men Fashion,Cotton Shirt,Comfort Zone India,565,455,No,Rathore Impex,Jodhpur,Rajasthan,342089,4.2,2024-06-02
+PROD00199,Wall Clock - Premium,Home Decor,Wall Clock,Generic,1301,237,Yes,Kumar Wholesale Mart,Bhopal,Madhya Pradesh,462056,3.8,2025-11-04
+PROD00200,Bangles Set - Premium Design,Jewellery & Cosmetics,Bangles Set,No Brand,429,252,No,Nair Impex,Kolkata,West Bengal,700089,4.2,2024-05-23
+PROD00201,Kajal Combo - Classic Style,Jewellery & Cosmetics,Kajal Combo,Riya Collections,1115,147,Yes,Singh Enterprises,Rajkot,Gujarat,360024,4.5,2024-03-21
+PROD00202,Men'S Wallet - Classic Design,Bags & Wallets,Men'S Wallet,Comfort Zone India,1549,440,Yes,Nair Impex,Mysuru,Karnataka,570035,5,2025-03-25
+PROD00203,Salwar Suit - Trendy Design,Women Ethnic Wear,Salwar Suit,No Brand,480,76,Yes,Sharma Collections,Ahmedabad,Gujarat,380090,2.9,2025-10-04
+PROD00204,Formal Shoes - Daily Wear Design,Footwear,Formal Shoes,Unbranded,1674,493,Yes,Yadav Enterprises,Ghaziabad,Uttar Pradesh,201015,4,2024-08-02
+PROD00205,Bangles Set - Daily Wear Fit,Jewellery & Cosmetics,Bangles Set,Riya Collections,857,102,No,Singh Wholesale Mart,Kochi,Kerala,682090,5,2024-12-31
+PROD00206,Tempered Glass - Trendy,Mobile Accessories,Tempered Glass,Metro Trendz,789,374,No,Chauhan Enterprises,Mumbai,Maharashtra,400059,4.4,2025-05-26
+PROD00207,Cotton Shirt - Premium Design,Men Fashion,Cotton Shirt,Aaradhya Fashion Hub,958,399,Yes,Singh Impex,Nagpur,Maharashtra,440064,3.5,2024-07-20
+PROD00208,Kajal Combo - Classic Style,Jewellery & Cosmetics,Kajal Combo,Shree Krishna Textiles,953,764,No,Gupta Collections,Siliguri,West Bengal,734025,,2025-04-18
+PROD00209,Lehenga Choli - Premium,Women Ethnic Wear,Lehenga Choli,Comfort Zone India,1766,237,No,Sharma Textiles,Agra,Uttar Pradesh,282080,3.4,2024-07-05
+PROD00210,Lehenga Choli - Trendy Design,Women Ethnic Wear,Lehenga Choli,Divine Ethnic Wear,686,362,No,Mukherjee Textiles,Faridabad,Haryana,121061,,2024-11-24
+PROD00211,Salwar Suit - Daily Wear Design,Women Ethnic Wear,Salwar Suit,Unbranded,290,686,Yes,Reddy Enterprises,Kanpur,Uttar Pradesh,208047,3.9,2025-08-28
+PROD00212,Kajal Combo - Festive Design,Jewellery & Cosmetics,Kajal Combo,Style Bazaar Co,581,127,Yes,Gupta Wholesale Mart,Gwalior,Madhya Pradesh,474059,3,2024-08-16
+PROD00213,Photo Frame Set - Festive Style,Home Decor,Photo Frame Set,Aaradhya Fashion Hub,1156,366,No,Kumar Textiles,Madurai,Tamil Nadu,625008,,2025-03-17
+PROD00214,Artificial Plant Pot - Premium Design,Home Decor,Artificial Plant Pot,Riya Collections,361,276,Yes,Das Enterprises,Nagpur,Maharashtra,440012,5,2025-04-19
+PROD00215,Wall Clock - Casual Style,Home Decor,Wall Clock,No Brand,637,40,Yes,Rao Enterprises,Ghaziabad,Uttar Pradesh,201068,3.9,2024-05-03
+PROD00216,Artificial Plant Pot - Festive,Home Decor,Artificial Plant Pot,Divine Ethnic Wear,633,40,Yes,Gupta Enterprises,New Delhi,Delhi,110000,4,2025-06-15
+PROD00217,Artificial Plant Pot - Festive Design,Home Decor,Artificial Plant Pot,Style Bazaar Co,647,503,Yes,Rao Enterprises,Kanpur,Uttar Pradesh,208028,5,2025-12-09
+PROD00218,Wall Clock - Classic Fit,Home Decor,Wall Clock,Unbranded,1366,290,Yes,Naidu Trading Co,Indore,Madhya Pradesh,452051,3.3,2025-02-24
+PROD00219,Storage Container Set - Daily Wear Style,Home & Kitchen,Storage Container Set,Fashion Point Surat,3027,363,Yes,Pillai Impex,Gwalior,Madhya Pradesh,474012,4,2024-12-29
+PROD00220,Track Pant - Classic Design,Men Fashion,Track Pant,Aaradhya Fashion Hub,725,393,Yes,Menon Trading Co,Faridabad,Haryana,121047,3.9,2024-08-18
+PROD00221,Men'S Wallet - Trendy Style,Bags & Wallets,Men'S Wallet,Aaradhya Fashion Hub,536,229,Yes,Iyer Wholesale Mart,Ghaziabad,Uttar Pradesh,201046,4,2025-08-19
+PROD00222,Denim Jeans - Casual Style,Men Fashion,Denim Jeans,No Brand,545,193,Yes,Patel Collections,Lucknow,Uttar Pradesh,226095,4.1,2024-09-01
+PROD00223,Kurti Set - Classic,Women Ethnic Wear,Kurti Set,Style Bazaar Co,639,680,Yes,Bhatt Enterprises,Surat,Gujarat,395005,,2024-07-30
+PROD00224,Track Pant - Daily Wear Design,Men Fashion,Track Pant,Om Wholesale Mart,1340,624,Yes,Verma Impex,Kochi,Kerala,682059,2.8,2025-06-17
+PROD00225,Bangles Set - Trendy Design,Jewellery & Cosmetics,Bangles Set,Riya Collections,609,268,No,Malhotra Collections,Chennai,Tamil Nadu,600044,3.2,2025-07-05
+PROD00226,Artificial Plant Pot - Casual Style,Home Decor,Artificial Plant Pot,Style Bazaar Co,479,105,No,Mukherjee Wholesale Mart,Ghaziabad,Uttar Pradesh,201046,5,2025-06-20
+PROD00227,Storage Container Set - Festive Fit,Home & Kitchen,Storage Container Set,Aaradhya Fashion Hub,1230,629,No,Agarwal Impex,Nagpur,Maharashtra,440004,,2025-02-06
+PROD00228,Wall Clock - Daily Wear Fit,Home Decor,Wall Clock,Metro Trendz,395,234,Yes,Pillai Impex,Nashik,Maharashtra,422023,4.3,2025-12-22
+PROD00229,Lehenga Choli - Casual,Women Ethnic Wear,Lehenga Choli,Fashion Point Surat,375,506,Yes,Patel Textiles,Kochi,Kerala,682047,,2025-10-24
+PROD00230,Phone Back Cover - Casual,Mobile Accessories,Phone Back Cover,Riya Collections,598,506,No,Banerjee Enterprises,Gwalior,Madhya Pradesh,474063,4.3,2025-04-18
+PROD00231,Photo Frame Set - Premium Fit,Home Decor,Photo Frame Set,Comfort Zone India,603,605,No,Menon Wholesale Mart,Ghaziabad,Uttar Pradesh,201013,3.4,2026-01-07
+PROD00232,Photo Frame Set - Classic,Home Decor,Photo Frame Set,Shree Krishna Textiles,1031,480,Yes,Desai Textiles,Surat,Gujarat,395086,3.8,2025-07-07
+PROD00233,Lehenga Choli - Classic Design,Women Ethnic Wear,Lehenga Choli,Style Bazaar Co,880,74,No,Yadav Impex,Kochi,Kerala,682052,4.6,2024-12-07
+PROD00234,Flat Sandals - Classic Design,Footwear,Flat Sandals,Fashion Point Surat,664,235,Yes,Mukherjee Trading Co,Jamshedpur,Jharkhand,831058,4.6,2024-08-24
+PROD00235,Kids Frock - Premium,Kids Wear,Kids Frock,Comfort Zone India,499,40,Yes,Malhotra Enterprises,Varanasi,Uttar Pradesh,221099,3.1,2024-05-12
+PROD00236,Men'S Wallet - Casual Style,Bags & Wallets,Men'S Wallet,Aaradhya Fashion Hub,1026,68,Yes,Verma Textiles,Cuttack,Odisha,753080,5,2025-09-18
+PROD00237,Wall Clock - Festive Design,Home Decor,Wall Clock,Comfort Zone India,234,723,Yes,Verma Textiles,Jodhpur,Rajasthan,342062,4.1,2025-11-29
+PROD00238,Cotton Shirt - Classic Design,Men Fashion,Cotton Shirt,Divine Ethnic Wear,697,230,No,Mukherjee Enterprises,Kochi,Kerala,682069,4.2,2025-08-17
+PROD00239,Men'S Wallet - Daily Wear Fit,Bags & Wallets,Men'S Wallet,Aaradhya Fashion Hub,720,592,Yes,Das Textiles,Thiruvananthapuram,Kerala,695047,4.1,2025-09-24
+PROD00240,Tempered Glass - Premium Style,Mobile Accessories,Tempered Glass,Om Wholesale Mart,798,270,Yes,Banerjee Impex,Ahmedabad,Gujarat,380047,,2025-09-12
+PROD00241,Kurti Set - Trendy Design,Women Ethnic Wear,Kurti Set,Shree Krishna Textiles,871,40,Yes,Rathore Wholesale Mart,Hubli,Karnataka,580024,3.2,2024-08-18
+PROD00242,Cotton Shirt - Festive Fit,Men Fashion,Cotton Shirt,Riya Collections,1106,387,No,Das Trading Co,Hubli,Karnataka,580003,3.9,2025-11-07
+PROD00243,Casual T-Shirt - Premium Design,Men Fashion,Casual T-Shirt,Comfort Zone India,743,426,Yes,Menon Impex,Ranchi,Jharkhand,834035,3.7,2024-07-12
+PROD00244,Phone Back Cover - Premium Style,Mobile Accessories,Phone Back Cover,Om Wholesale Mart,479,393,Yes,Malhotra Textiles,Ahmedabad,Gujarat,380007,3.4,2025-12-19
+PROD00245,Track Pant - Premium Design,Men Fashion,Track Pant,Divine Ethnic Wear,920,40,No,Menon Impex,Guwahati,Assam,781099,,2025-03-10
+PROD00246,Formal Shoes - Classic Style,Footwear,Formal Shoes,Priya Creations,953,406,Yes,Reddy Wholesale Mart,Asansol,West Bengal,713044,4.6,2024-10-30
+PROD00247,Boys T-Shirt Set - Daily Wear Fit,Kids Wear,Boys T-Shirt Set,Unbranded,1837,573,Yes,Malhotra Trading Co,Hubli,Karnataka,580078,2.9,2024-05-12
+PROD00248,Earrings Combo - Premium,Jewellery & Cosmetics,Earrings Combo,Riya Collections,364,212,No,Pillai Trading Co,Rajkot,Gujarat,360010,,2024-09-19
+PROD00249,Slippers - Classic,Footwear,Slippers,Riya Collections,977,190,Yes,Pillai Enterprises,Amritsar,Punjab,143XX1,4.1,2025-08-18
+PROD00250,Non-Stick Pan - Casual Fit,Home & Kitchen,Non-Stick Pan,Divine Ethnic Wear,485,215,No,Gupta Collections,Coimbatore,Tamil Nadu,641089,,2024-04-08
+PROD00251,Wall Clock - Classic Design,Home Decor,Wall Clock,Generic,442,52,No,Gupta Trading Co,Gurugram,Haryana,122066,3.4,2024-08-01
+PROD00252,Artificial Plant Pot - Classic,Home Decor,Artificial Plant Pot,Comfort Zone India,1312,141,No,Chauhan Impex,Jaipur,Rajasthan,302037,5,2025-11-20
+PROD00253,Salwar Suit - Classic Design,Women Ethnic Wear,Salwar Suit,Aaradhya Fashion Hub,964,390,Yes,Menon Trading Co,Ludhiana,Punjab,141094,,2024-12-29
+PROD00254,Kids Nightwear - Classic,Kids Wear,Kids Nightwear,Comfort Zone India,1080,223,Yes,Bhatt Enterprises,Amritsar,Punjab,143054,4.1,2024-03-04
+PROD00255,Wired Earphones - Festive Fit,Mobile Accessories,Wired Earphones,Divine Ethnic Wear,3005,328,No,Chatterjee Trading Co,Ludhiana,Punjab,141085,,2025-04-02
+PROD00256,Storage Container Set - Premium Design,Home & Kitchen,Storage Container Set,Aaradhya Fashion Hub,499,342,Yes,Pillai Enterprises,Bhopal,Madhya Pradesh,462053,5,2025-06-29
+PROD00257,Salwar Suit - Daily Wear Fit,Women Ethnic Wear,Salwar Suit,Shree Krishna Textiles,521,748,Yes,Iyer Trading Co,Kanpur,Uttar Pradesh,208044,4.4,2025-11-24
+PROD00258,Phone Back Cover - Casual Design,Mobile Accessories,Phone Back Cover,Shree Krishna Textiles,540,489,Yes,Sharma Collections,Jodhpur,Rajasthan,342011,4.6,2025-01-24
+PROD00259,Saree - Daily Wear Fit,Women Ethnic Wear,Saree,Style Bazaar Co,1035,40,No,Sheikh Impex,Gurugram,Haryana,122038,3.6,2024-12-08
+PROD00260,Power Bank - Casual Style,Mobile Accessories,Power Bank,Metro Trendz,642,333,Yes,Gupta Textiles,Ludhiana,Punjab,141009,4.4,2025-11-02
+PROD00261,Kids Frock - Casual Style,Kids Wear,Kids Frock,Divine Ethnic Wear,811,56,Yes,Chauhan Enterprises,Mysuru,Karnataka,570080,4.2,2025-12-02
+PROD00262,Artificial Plant Pot - Casual Style,Home Decor,Artificial Plant Pot,Comfort Zone India,1028,473,No,Rao Impex,Varanasi,Uttar Pradesh,221095,4.6,2024-10-08
+PROD00263,Lehenga Choli - Festive Fit,Women Ethnic Wear,Lehenga Choli,Aaradhya Fashion Hub,1163,,Yes,Bhatt Collections,Patna,Bihar,800015,4,2025-11-23
+PROD00264,Cotton Shirt - Festive Design,Men Fashion,Cotton Shirt,Unbranded,295,444,Yes,Mishra Textiles,Mumbai,Maharashtra,400031,,2025-08-06
+PROD00265,Men'S Wallet - Festive,Bags & Wallets,Men'S Wallet,Divine Ethnic Wear,854,69,Yes,Shah Collections,Bhubaneswar,Odisha,751057,3.4,2024-08-18
+PROD00266,Cotton Shirt - Daily Wear Design,Men Fashion,Cotton Shirt,Priya Creations,1312,341,No,Rao Impex,Bhubaneswar,Odisha,751026,4.4,2025-05-11
+PROD00267,Cotton Shirt - Daily Wear,Men Fashion,Cotton Shirt,Om Wholesale Mart,747,356,Yes,Yadav Trading Co,Pune,Maharashtra,411012,4.6,2024-06-03
+PROD00268,Casual Sneakers - Trendy Fit,Footwear,Casual Sneakers,Aaradhya Fashion Hub,553,371,Yes,Naidu Trading Co,Jaipur,Rajasthan,302067,3.7,2025-02-10
+PROD00269,Saree - Festive Design,Women Ethnic Wear,Saree,Riya Collections,579,281,Yes,Khan Wholesale Mart,Jamshedpur,Jharkhand,831058,4.1,2024-10-27
+PROD00270,Casual Sneakers - Festive,Footwear,Casual Sneakers,Metro Trendz,565,626,Yes,Mukherjee Collections,Bengaluru,Karnataka,560047,,2025-05-10
+PROD00271,School Backpack - Premium Design,Bags & Wallets,School Backpack,Style Bazaar Co,663,,No,Khan Collections,Surat,Gujarat,395073,4.9,2025-10-21
+PROD00272,Kajal Combo - Trendy Style,Jewellery & Cosmetics,Kajal Combo,Om Wholesale Mart,819,577,Yes,Gupta Trading Co,Amritsar,Punjab,143029,3.1,2025-06-05
+PROD00273,Kajal Combo - Casual Style,Jewellery & Cosmetics,Kajal Combo,Shree Krishna Textiles,851,545,Yes,Reddy Wholesale Mart,Madurai,Tamil Nadu,625000,,2024-07-11
+PROD00274,Kurti Set - Premium Design,Women Ethnic Wear,Kurti Set,Om Wholesale Mart,1321,236,Yes,Mukherjee Collections,Pune,Maharashtra,411091,4.8,2025-11-28
+PROD00275,Artificial Plant Pot - Classic,Home Decor,Artificial Plant Pot,Divine Ethnic Wear,2603,270,No,Agarwal Wholesale Mart,Ranchi,Jharkhand,834024,3.7,2025-08-25
+PROD00276,Phone Back Cover - Festive,Mobile Accessories,Phone Back Cover,Comfort Zone India,1635,697,No,Iyer Enterprises,Thiruvananthapuram,Kerala,695086,,2025-06-13
+PROD00277,Flat Sandals - Daily Wear Design,Footwear,Flat Sandals,Style Bazaar Co,583,288,Yes,Patel Textiles,Pune,Maharashtra,411086,3.2,2025-08-03
+PROD00278,Kurti Set - Classic Fit,Women Ethnic Wear,Kurti Set,Riya Collections,444,129,Yes,Khan Wholesale Mart,Indore,Madhya Pradesh,452048,3.5,2024-08-22
+PROD00279,Ladies Handbag - Casual Style,Bags & Wallets,Ladies Handbag,Metro Trendz,721,401,Yes,Iyer Collections,Ranchi,Jharkhand,834027,4.9,2024-08-29
+PROD00280,Kajal Combo - Trendy Fit,Jewellery & Cosmetics,Kajal Combo,Riya Collections,424,566,No,Iyer Impex,Jaipur,Rajasthan,302026,3.9,2024-11-20
+PROD00281,Casual Sneakers - Festive Fit,Footwear,Casual Sneakers,Shree Krishna Textiles,715,,No,Sharma Textiles,Jaipur,Rajasthan,302080,3.3,2025-04-27
+PROD00282,Bangles Set - Casual Style,Jewellery & Cosmetics,Bangles Set,Aaradhya Fashion Hub,907,386,No,Patel Textiles,Amritsar,Punjab,143053,4.3,2025-08-04
+PROD00283,Casual T-Shirt - Classic Fit,Men Fashion,Casual T-Shirt,Shree Krishna Textiles,862,890,No,Gupta Enterprises,Gaya,Bihar,823083,3.6,2025-11-20
+PROD00284,Photo Frame Set - Festive Fit,Home Decor,Photo Frame Set,Style Bazaar Co,549,212,No,Bhatt Impex,Kanpur,Uttar Pradesh,208076,3.7,2025-07-27
+PROD00285,Men'S Wallet - Premium,Bags & Wallets,Men'S Wallet,Aaradhya Fashion Hub,518,611,No,Reddy Enterprises,Gwalior,Madhya Pradesh,474089,4.9,2024-11-02
+PROD00286,Tempered Glass - Festive Fit,Mobile Accessories,Tempered Glass,Aaradhya Fashion Hub,537,166,No,Joshi Textiles,Ghaziabad,Uttar Pradesh,201094,,2025-12-31
+PROD00287,Casual Sneakers - Premium Design,Footwear,Casual Sneakers,Unbranded,543,489,Yes,Mishra Enterprises,Indore,Madhya Pradesh,452002,4.1,2025-03-29
+PROD00288,Ladies Handbag - Trendy,Bags & Wallets,Ladies Handbag,Unbranded,319,690,No,Pillai Textiles,Bhopal,Madhya Pradesh,462096,,2024-07-08
+PROD00289,Kurti Set - Daily Wear,Women Ethnic Wear,Kurti Set,Om Wholesale Mart,525,264,Yes,Rathore Collections,Jamshedpur,Jharkhand,831033,4.2,2024-09-26
+PROD00290,Storage Container Set - Premium,Home & Kitchen,Storage Container Set,Unbranded,884,494,No,Verma Impex,Patna,Bihar,800066,5,2025-08-15
+PROD00291,Artificial Plant Pot - Casual Fit,Home Decor,Artificial Plant Pot,Generic,667,174,No,Iyer Wholesale Mart,Guwahati,Assam,78107,3.2,2025-01-12
+PROD00292,Kurti Set - Casual Fit,Women Ethnic Wear,Kurti Set,Shree Krishna Textiles,492,342,No,Joshi Impex,Amritsar,Punjab,143043,,2024-07-16
+PROD00293,Formal Shoes - Classic Design,Footwear,Formal Shoes,Unbranded,553,399,Yes,Iyer Impex,Hyderabad,Telangana,500019,4,2024-10-03
+PROD00294,Saree - Daily Wear Style,Women Ethnic Wear,Saree,Generic,1413,905,Yes,Nair Collections,Kanpur,Uttar Pradesh,208096,3.7,2024-08-31
+PROD00295,Artificial Plant Pot - Daily Wear Style,Home Decor,Artificial Plant Pot,Divine Ethnic Wear,562,579,Yes,Naidu Trading Co,New Delhi,Delhi,110028,4.4,2024-10-19
+PROD00296,Window Curtain - Classic Style,Home & Kitchen,Window Curtain,Shree Krishna Textiles,2030,478,Yes,Das Enterprises,Thiruvananthapuram,Kerala,695058,3.8,2025-07-27
+PROD00297,Tempered Glass - Classic Design,Mobile Accessories,Tempered Glass,Divine Ethnic Wear,1017,593,No,Iyer Collections,Amritsar,Punjab,143066,4.5,2024-05-02
+PROD00298,Non-Stick Pan - Trendy,Home & Kitchen,Non-Stick Pan,Comfort Zone India,972,584,No,Naidu Enterprises,Cuttack,Odisha,753070,4.7,2025-05-06
+PROD00299,Bangles Set - Trendy Design,Jewellery & Cosmetics,Bangles Set,Aaradhya Fashion Hub,1572,492,Yes,Reddy Trading Co,Nashik,Maharashtra,422030,,2025-02-22
+PROD00300,Flat Sandals - Casual Style,Footwear,Flat Sandals,Aaradhya Fashion Hub,797,615,No,Shah Collections,Surat,Gujarat,395050,,2025-05-01
+PROD00301,Kids Frock - Premium Fit,Kids Wear,Kids Frock,Style Bazaar Co,900,263,Yes,Desai Wholesale Mart,Nagpur,Maharashtra,440039,4,2025-10-26
+PROD00302,Ladies Handbag - Daily Wear Style,Bags & Wallets,Ladies Handbag,No Brand,1485,392,Yes,Naidu Impex,Ghaziabad,Uttar Pradesh,201088,4,2025-09-02
+PROD00303,Denim Jeans - Classic,Men Fashion,Denim Jeans,No Brand,348,514,No,Nair Enterprises,Chandigarh,Chandigarh,16009,4.4,2025-08-29
+PROD00304,Formal Shoes - Daily Wear Style,Footwear,Formal Shoes,Generic,2416,282,No,Yadav Enterprises,Ghaziabad,Uttar Pradesh,201065,4.1,2024-06-01
+PROD00305,Men'S Wallet - Premium Design,Bags & Wallets,Men'S Wallet,Generic,843,697,Yes,Chatterjee Collections,Ahmedabad,Gujarat,380010,3.9,2025-12-24
+PROD00306,Power Bank - Daily Wear,Mobile Accessories,Power Bank,Comfort Zone India,857,483,No,Menon Enterprises,Bhubaneswar,Odisha,751087,4.1,2025-03-03
+PROD00307,School Backpack - Trendy Style,Bags & Wallets,School Backpack,Metro Trendz,575,392,No,Iyer Textiles,Gaya,Bihar,823082,,2025-06-19
+PROD00308,Saree - Trendy Style,Women Ethnic Wear,Saree,No Brand,418,379,Yes,Rao Enterprises,Jamshedpur,Jharkhand,831014,3.6,2025-12-26
+PROD00309,Casual T-Shirt - Classic Style,Men Fashion,Casual T-Shirt,Generic,1418,40,No,Sharma Enterprises,Rajkot,Gujarat,360031,3.7,2025-04-29
+PROD00310,Bedsheet Set - Daily Wear Style,Home & Kitchen,Bedsheet Set,Priya Creations,905,694,No,Ansari Collections,Rajkot,Gujarat,360086,4,2024-07-03
+PROD00311,Artificial Plant Pot - Classic Design,Home Decor,Artificial Plant Pot,Fashion Point Surat,542,763,No,Chatterjee Collections,Pune,Maharashtra,411072,3.1,2025-05-14
+PROD00312,Saree - Festive Fit,Women Ethnic Wear,Saree,Aaradhya Fashion Hub,219,446,Yes,Banerjee Trading Co,Nagpur,Maharashtra,440036,,2025-01-20
+PROD00313,School Backpack - Trendy Design,Bags & Wallets,School Backpack,Riya Collections,419,505,Yes,Nair Textiles,Bhopal,Madhya Pradesh,462032,,2025-03-17
+PROD00314,Flat Sandals - Daily Wear Fit,Footwear,Flat Sandals,Generic,539,68,No,Khan Textiles,Kolkata,West Bengal,700090,4.5,2026-01-16
+PROD00315,Denim Jeans - Daily Wear,Men Fashion,Denim Jeans,Om Wholesale Mart,1051,328,Yes,Iyer Wholesale Mart,Gwalior,Madhya Pradesh,474046,5,2025-06-22
+PROD00316,Denim Jeans - Trendy,Men Fashion,Denim Jeans,Unbranded,408,40,Yes,Iyer Wholesale Mart,Jodhpur,Rajasthan,342043,3.6,2025-08-30
+PROD00317,Saree - Trendy Design,Women Ethnic Wear,Saree,Style Bazaar Co,717,403,Yes,Verma Trading Co,Bhubaneswar,Odisha,751092,,2024-11-14
+PROD00318,Bangles Set - Classic Design,Jewellery & Cosmetics,Bangles Set,Style Bazaar Co,892,74,No,Mishra Trading Co,Pune,Maharashtra,411074,,2024-12-02
+PROD00319,Lipstick Combo - Daily Wear,Jewellery & Cosmetics,Lipstick Combo,Unbranded,703,,No,Chauhan Wholesale Mart,Bhopal,Madhya Pradesh,462062,4.2,2024-09-18
+PROD00320,Tempered Glass - Classic Fit,Mobile Accessories,Tempered Glass,Shree Krishna Textiles,945,,No,Shah Textiles,Warangal,Telangana,506081,4.3,2025-06-12
+PROD00321,Casual T-Shirt - Casual Fit,Men Fashion,Casual T-Shirt,Riya Collections,1047,642,Yes,Yadav Textiles,Kolkata,West Bengal,700085,4.1,2024-03-14
+PROD00322,Saree - Daily Wear Fit,Women Ethnic Wear,Saree,Metro Trendz,1086,330,No,Patel Textiles,New Delhi,Delhi,110022,4.9,2026-01-02
+PROD00323,Power Bank - Festive,Mobile Accessories,Power Bank,Divine Ethnic Wear,507,746,No,Khan Collections,Gaya,Bihar,823037,4,2024-03-15
+PROD00324,Tempered Glass - Casual Design,Mobile Accessories,Tempered Glass,Divine Ethnic Wear,335,378,Yes,Naidu Impex,Madurai,Tamil Nadu,625095,3.6,2025-10-10
+PROD00325,Photo Frame Set - Daily Wear Design,Home Decor,Photo Frame Set,Comfort Zone India,1167,206,Yes,Rao Trading Co,Asansol,West Bengal,713087,3.7,2025-06-09
+PROD00326,Earrings Combo - Premium Design,Jewellery & Cosmetics,Earrings Combo,Metro Trendz,260,250,Yes,Rathore Trading Co,Chennai,Tamil Nadu,600025,2.5,2024-10-20
+PROD00327,Slippers - Festive Design,Footwear,Slippers,Unbranded,308,517,No,Mishra Trading Co,Ludhiana,Punjab,141078,,2024-09-23
+PROD00328,Power Bank - Festive Fit,Mobile Accessories,Power Bank,Generic,929,137,Yes,Mishra Impex,Kochi,Kerala,682058,4,2025-07-31
+PROD00329,Wall Clock - Festive Design,Home Decor,Wall Clock,Om Wholesale Mart,734,95,Yes,Pillai Enterprises,Guwahati,Assam,781018,4.9,2025-09-16
+PROD00330,Flat Sandals - Classic Style,Footwear,Flat Sandals,No Brand,1191,301,Yes,Das Enterprises,Patna,Bihar,800051,4,2025-10-13
+PROD00331,School Backpack - Trendy Fit,Bags & Wallets,School Backpack,Metro Trendz,824,40,No,Verma Collections,Nashik,Maharashtra,422001,3.9,2024-08-19
+PROD00332,School Backpack - Casual Style,Bags & Wallets,School Backpack,Riya Collections,505,129,Yes,Bhatt Trading Co,Jaipur,Rajasthan,302033,3.8,2024-09-25
+PROD00333,Wall Clock - Premium,Home Decor,Wall Clock,No Brand,1976,490,No,Das Impex,Mysuru,Karnataka,570009,3.7,2025-12-02
+PROD00334,Bedsheet Set - Premium Fit,Home & Kitchen,Bedsheet Set,Aaradhya Fashion Hub,1007,657,Yes,Rao Wholesale Mart,Bhubaneswar,Odisha,751060,4.6,2025-04-16
+PROD00335,Window Curtain - Casual Style,Home & Kitchen,Window Curtain,Fashion Point Surat,760,207,No,Yadav Textiles,Jaipur,Rajasthan,302054,4.4,2025-12-26
+PROD00336,Photo Frame Set - Daily Wear Fit,Home Decor,Photo Frame Set,Riya Collections,913,546,No,Pillai Textiles,Chennai,Tamil Nadu,600001,4.4,2025-02-28
+PROD00337,Slippers - Classic,Footwear,Slippers,Om Wholesale Mart,1309,232,No,Ansari Trading Co,Ludhiana,Punjab,141055,4.8,2025-06-23
+PROD00338,Ladies Handbag - Premium Fit,Bags & Wallets,Ladies Handbag,No Brand,819,806,No,Bhatt Wholesale Mart,Jamshedpur,Jharkhand,831086,,2025-09-29
+PROD00339,Kurti Set - Classic,Women Ethnic Wear,Kurti Set,Priya Creations,1910,393,Yes,Banerjee Enterprises,Ludhiana,Punjab,141091,,2025-11-19
+PROD00340,Wall Clock - Classic,Home Decor,Wall Clock,Unbranded,563,279,No,Khan Wholesale Mart,Nagpur,Maharashtra,440057,,2025-06-11
+PROD00341,Power Bank - Festive,Mobile Accessories,Power Bank,Generic,980,223,Yes,Banerjee Collections,Kanpur,Uttar Pradesh,208090,4,2024-08-30
+PROD00342,Kurti Set - Festive Design,Women Ethnic Wear,Kurti Set,Riya Collections,2388,730,No,Sheikh Impex,Coimbatore,Tamil Nadu,641019,,2025-04-08
+PROD00343,Power Bank - Festive,Mobile Accessories,Power Bank,Style Bazaar Co,751,376,No,Iyer Wholesale Mart,Ghaziabad,Uttar Pradesh,201029,4.4,2025-03-28
+PROD00344,Men'S Wallet - Classic Design,Bags & Wallets,Men'S Wallet,Shree Krishna Textiles,419,293,Yes,Sheikh Collections,Kochi,Kerala,682000,3,2024-12-08
+PROD00345,Wired Earphones - Classic Fit,Mobile Accessories,Wired Earphones,Priya Creations,916,492,Yes,Gupta Impex,Agra,Uttar Pradesh,282090,3.7,2024-11-21
+PROD00346,Boys T-Shirt Set - Casual Style,Kids Wear,Boys T-Shirt Set,Om Wholesale Mart,1747,80,No,Nair Collections,Agra,Uttar Pradesh,282008,3.1,2024-10-13
+PROD00347,Kids Nightwear - Casual Style,Kids Wear,Kids Nightwear,Divine Ethnic Wear,832,580,Yes,Pillai Wholesale Mart,Indore,Madhya Pradesh,452087,5,2025-01-11
+PROD00348,Flat Sandals - Classic Design,Footwear,Flat Sandals,Aaradhya Fashion Hub,571,587,No,Sharma Wholesale Mart,Nagpur,Maharashtra,440023,4,2025-01-14
+PROD00349,School Backpack - Premium Style,Bags & Wallets,School Backpack,Generic,669,544,Yes,Rathore Enterprises,Amritsar,Punjab,143000,4.4,2025-06-13
+PROD00350,Tempered Glass - Casual Design,Mobile Accessories,Tempered Glass,Style Bazaar Co,309,674,No,Nair Trading Co,Bengaluru,Karnataka,560092,4.8,2024-03-25
+PROD00351,Window Curtain - Classic Design,Home & Kitchen,Window Curtain,Divine Ethnic Wear,521,437,No,Banerjee Textiles,Asansol,West Bengal,713094,,2024-03-16
+PROD00352,Cotton Shirt - Daily Wear,Men Fashion,Cotton Shirt,Generic,848,228,No,Ansari Textiles,Thiruvananthapuram,Kerala,695005,,2025-01-12
+PROD00353,Window Curtain - Premium Style,Home & Kitchen,Window Curtain,No Brand,725,608,No,Das Wholesale Mart,Chandigarh,Chandigarh,160034,4.3,2024-10-24
+PROD00354,Kids Nightwear - Premium Style,Kids Wear,Kids Nightwear,Style Bazaar Co,600,519,Yes,Chauhan Trading Co,Rajkot,Gujarat,360061,2.3,2025-08-30
+PROD00355,Ladies Handbag - Classic Style,Bags & Wallets,Ladies Handbag,Generic,1383,40,No,Banerjee Textiles,Udaipur,Rajasthan,313069,3.8,2024-06-18
+PROD00356,Slippers - Festive,Footwear,Slippers,Divine Ethnic Wear,397,65,No,Reddy Trading Co,Kanpur,Uttar Pradesh,208052,4.7,2025-06-21
+PROD00357,Lipstick Combo - Festive Style,Jewellery & Cosmetics,Lipstick Combo,Om Wholesale Mart,568,426,Yes,Iyer Wholesale Mart,Gaya,Bihar,823045,4,2024-10-14
+PROD00358,Photo Frame Set - Casual Style,Home Decor,Photo Frame Set,Priya Creations,956,366,No,Malhotra Collections,Surat,Gujarat,395018,3.2,2024-07-22
+PROD00359,School Backpack - Casual Design,Bags & Wallets,School Backpack,Aaradhya Fashion Hub,1271,241,Yes,Mishra Wholesale Mart,Bengaluru,Karnataka,560028,,2024-05-20
+PROD00360,Non-Stick Pan - Premium Design,Home & Kitchen,Non-Stick Pan,Shree Krishna Textiles,581,680,Yes,Singh Impex,Asansol,West Bengal,713060,4.5,2024-09-04
+PROD00361,Lipstick Combo - Daily Wear Fit,Jewellery & Cosmetics,Lipstick Combo,Generic,607,273,Yes,Ansari Collections,Hubli,Karnataka,580062,3.8,2025-02-15
+PROD00362,Kids Frock - Festive Fit,Kids Wear,Kids Frock,Priya Creations,2304,434,Yes,Sharma Impex,Bhopal,Madhya Pradesh,462013,4.3,2025-04-07
+PROD00363,Bedsheet Set - Casual,Home & Kitchen,Bedsheet Set,Shree Krishna Textiles,1296,402,No,Singh Collections,Faridabad,Haryana,121014,3.8,2025-02-12
+PROD00364,Boys T-Shirt Set - Daily Wear Style,Kids Wear,Boys T-Shirt Set,Unbranded,660,334,No,Menon Textiles,Thiruvananthapuram,Kerala,695058,,2024-06-29
+PROD00365,Wall Clock - Trendy Design,Home Decor,Wall Clock,Metro Trendz,1097,361,No,Rathore Wholesale Mart,Amritsar,Punjab,143086,4.4,2025-01-22
+PROD00366,Boys T-Shirt Set - Classic Design,Kids Wear,Boys T-Shirt Set,Aaradhya Fashion Hub,703,367,Yes,Khan Textiles,Chandigarh,Chandigarh,160037,2.8,2025-09-24
+PROD00367,Kids Frock - Festive Style,Kids Wear,Kids Frock,Riya Collections,1217,426,No,Menon Wholesale Mart,Ranchi,Jharkhand,834098,4.6,2024-08-24
+PROD00368,Casual T-Shirt - Festive Fit,Men Fashion,Casual T-Shirt,Unbranded,149,809,No,Iyer Impex,Lucknow,Uttar Pradesh,226048,,2024-03-12
+PROD00369,Formal Shoes - Classic Design,Footwear,Formal Shoes,Fashion Point Surat,1352,121,No,Bhatt Trading Co,Rajkot,Gujarat,360033,4.4,2025-03-07
+PROD00370,Bedsheet Set - Trendy,Home & Kitchen,Bedsheet Set,Fashion Point Surat,412,212,Yes,Rao Impex,Siliguri,West Bengal,734072,,2025-07-26
+PROD00371,Window Curtain - Premium Fit,Home & Kitchen,Window Curtain,Generic,662,397,Yes,Menon Collections,Warangal,Telangana,506026,4.5,2025-07-05
+PROD00372,Flat Sandals - Premium Style,Footwear,Flat Sandals,Aaradhya Fashion Hub,965,383,Yes,Naidu Textiles,Udaipur,Rajasthan,313095,4.2,2024-06-24
+PROD00373,Kajal Combo - Trendy Style,Jewellery & Cosmetics,Kajal Combo,Aaradhya Fashion Hub,2757,337,No,Naidu Textiles,Nashik,Maharashtra,422048,,2025-03-21
+PROD00374,Casual Sneakers - Premium Fit,Footwear,Casual Sneakers,Fashion Point Surat,1310,593,Yes,Joshi Wholesale Mart,Asansol,West Bengal,71307,4.7,2024-11-26
+PROD00375,Wall Clock - Casual Fit,Home Decor,Wall Clock,Fashion Point Surat,1045,98,Yes,Reddy Collections,Ludhiana,Punjab,141072,5,2024-07-17
+PROD00376,Kurti Set - Premium Style,Women Ethnic Wear,Kurti Set,Comfort Zone India,391,416,Yes,Naidu Enterprises,Ahmedabad,Gujarat,380039,,2025-10-23
+PROD00377,Wired Earphones - Classic Style,Mobile Accessories,Wired Earphones,Generic,710,422,No,Gupta Enterprises,Jodhpur,Rajasthan,342012,,2025-10-07
+PROD00378,Earrings Combo - Trendy Style,Jewellery & Cosmetics,Earrings Combo,Om Wholesale Mart,927,705,Yes,Reddy Trading Co,Surat,Gujarat,395078,4.3,2025-09-25
+PROD00379,Cotton Shirt - Festive Design,Men Fashion,Cotton Shirt,Style Bazaar Co,643,562,Yes,Desai Impex,New Delhi,Delhi,110076,4.7,2026-01-19
+PROD00380,Bangles Set - Premium Design,Jewellery & Cosmetics,Bangles Set,Style Bazaar Co,374,481,No,Pillai Textiles,Gaya,Bihar,823046,4.4,2025-05-28
+PROD00381,School Backpack - Trendy,Bags & Wallets,School Backpack,No Brand,624,652,Yes,Banerjee Trading Co,Udaipur,Rajasthan,313024,3.9,2024-03-15
+PROD00382,Slippers - Classic Style,Footwear,Slippers,Style Bazaar Co,788,311,No,Khan Impex,Kanpur,Uttar Pradesh,208011,4,2025-09-15
+PROD00383,Kajal Combo - Daily Wear,Jewellery & Cosmetics,Kajal Combo,No Brand,402,40,Yes,Chauhan Trading Co,Asansol,West Bengal,713034,5,2024-12-18
+PROD00384,Lipstick Combo - Daily Wear Design,Jewellery & Cosmetics,Lipstick Combo,Riya Collections,461,131,Yes,Iyer Textiles,Guwahati,Assam,781073,2.7,2025-09-06
+PROD00385,Slippers - Festive Fit,Footwear,Slippers,Divine Ethnic Wear,517,58,Yes,Gupta Enterprises,Ranchi,Jharkhand,834057,5,2025-05-14
+PROD00386,Saree - Casual Fit,Women Ethnic Wear,Saree,Riya Collections,1281,198,Yes,Ansari Collections,Varanasi,Uttar Pradesh,221023,5,2024-12-20
+PROD00387,Bangles Set - Classic Style,Jewellery & Cosmetics,Bangles Set,Om Wholesale Mart,1261,278,No,Singh Collections,Rajkot,Gujarat,360062,2.5,2024-09-21
+PROD00388,Lipstick Combo - Classic,Jewellery & Cosmetics,Lipstick Combo,Shree Krishna Textiles,2592,44,No,Desai Trading Co,Kolkata,West Bengal,700089,3,2024-12-31
+PROD00389,Wired Earphones - Trendy Design,Mobile Accessories,Wired Earphones,Om Wholesale Mart,1290,886,No,Menon Collections,Jamshedpur,Jharkhand,831029,4.8,2024-03-06
+PROD00390,Saree - Premium Fit,Women Ethnic Wear,Saree,Priya Creations,1002,480,Yes,Shah Impex,Asansol,West Bengal,713030,4.5,2025-07-11
+PROD00391,Kids Nightwear - Premium,Kids Wear,Kids Nightwear,No Brand,1116,411,No,Verma Trading Co,Muzaffarpur,Bihar,842029,4.1,2024-07-05
+PROD00392,Kids Nightwear - Casual Design,Kids Wear,Kids Nightwear,Shree Krishna Textiles,710,184,Yes,Pillai Collections,Lucknow,Uttar Pradesh,226090,3.8,2024-03-05
+PROD00393,Wired Earphones - Classic Fit,Mobile Accessories,Wired Earphones,Divine Ethnic Wear,290,328,Yes,Khan Enterprises,Siliguri,West Bengal,734099,3.4,2024-05-14
+PROD00394,Non-Stick Pan - Premium Style,Home & Kitchen,Non-Stick Pan,Metro Trendz,401,389,No,Banerjee Impex,Rajkot,Gujarat,360033,4.8,2025-09-24
+PROD00395,Phone Back Cover - Festive Design,Mobile Accessories,Phone Back Cover,No Brand,1218,40,Yes,Pillai Trading Co,Ghaziabad,Uttar Pradesh,201055,3.4,2024-08-19
+PROD00396,Ladies Handbag - Premium Design,Bags & Wallets,Ladies Handbag,Aaradhya Fashion Hub,1233,133,No,Bhatt Impex,Varanasi,Uttar Pradesh,221013,3.9,2025-10-23
+PROD00397,Ladies Handbag - Festive Style,Bags & Wallets,Ladies Handbag,Metro Trendz,995,136,No,Banerjee Trading Co,Agra,Uttar Pradesh,282080,4.1,2024-10-09
+PROD00398,Kids Nightwear - Daily Wear Style,Kids Wear,Kids Nightwear,Om Wholesale Mart,353,217,No,Pillai Wholesale Mart,Kochi,Kerala,682075,4.2,2024-06-01
+PROD00399,Kurti Set - Trendy Design,Women Ethnic Wear,Kurti Set,Divine Ethnic Wear,306,446,Yes,Desai Impex,Agra,Uttar Pradesh,282086,4,2025-10-13
+PROD00400,Storage Container Set - Festive Fit,Home & Kitchen,Storage Container Set,Comfort Zone India,996,399,No,Chauhan Wholesale Mart,Udaipur,Rajasthan,313069,4.8,2025-05-11
+PROD00401,Kids Nightwear - Trendy,Kids Wear,Kids Nightwear,Om Wholesale Mart,788,255,No,Das Impex,Gurugram,Haryana,122054,4.1,2025-04-03
+PROD00402,Salwar Suit - Festive,Women Ethnic Wear,Salwar Suit,Riya Collections,991,360,Yes,Iyer Collections,Mysuru,Karnataka,570015,4,2024-11-03
+PROD00403,Casual T-Shirt - Festive,Men Fashion,Casual T-Shirt,Metro Trendz,500,204,No,Joshi Enterprises,Lucknow,Uttar Pradesh,226050,3.2,2025-01-26
+PROD00404,Tempered Glass - Festive Design,Mobile Accessories,Tempered Glass,No Brand,1924,76,Yes,Nair Trading Co,Jodhpur,Rajasthan,342031,3.6,2024-08-01
+PROD00405,Power Bank - Casual Design,Mobile Accessories,Power Bank,Unbranded,495,546,Yes,Banerjee Enterprises,Agra,Uttar Pradesh,282063,3.8,2025-03-13
+PROD00406,Tempered Glass - Festive Fit,Mobile Accessories,Tempered Glass,Riya Collections,1460,201,Yes,Desai Enterprises,Kolkata,West Bengal,700081,4.2,2024-09-07
+PROD00407,Kids Nightwear - Premium Style,Kids Wear,Kids Nightwear,Generic,464,821,No,Joshi Collections,Chennai,Tamil Nadu,600064,3.3,2024-10-31
+PROD00408,Window Curtain - Trendy Fit,Home & Kitchen,Window Curtain,Style Bazaar Co,872,489,Yes,Chatterjee Textiles,Agra,Uttar Pradesh,282028,4.2,2025-06-13
+PROD00409,Photo Frame Set - Festive Style,Home Decor,Photo Frame Set,Metro Trendz,664,321,Yes,Kumar Wholesale Mart,Ludhiana,Punjab,141001,,2025-11-01
+PROD00410,Lipstick Combo - Premium,Jewellery & Cosmetics,Lipstick Combo,Comfort Zone India,678,562,Yes,Iyer Textiles,Bhubaneswar,Odisha,751078,5,2025-01-17
+PROD00411,Salwar Suit - Trendy Style,Women Ethnic Wear,Salwar Suit,Unbranded,541,48,Yes,Khan Impex,Varanasi,Uttar Pradesh,221025,3.9,2024-11-15
+PROD00412,Formal Shoes - Trendy Design,Footwear,Formal Shoes,Priya Creations,3038,173,Yes,Menon Wholesale Mart,Asansol,West Bengal,713096,5,2024-09-15
+PROD00413,Artificial Plant Pot - Casual,Home Decor,Artificial Plant Pot,Shree Krishna Textiles,1850,228,Yes,Banerjee Wholesale Mart,Kolkata,West Bengal,700053,4.3,2025-08-14
+PROD00414,Slippers - Classic,Footwear,Slippers,Style Bazaar Co,1800,266,No,Joshi Textiles,Thiruvananthapuram,Kerala,695041,,2025-08-22
+PROD00415,Lipstick Combo - Trendy,Jewellery & Cosmetics,Lipstick Combo,Generic,534,126,Yes,Agarwal Enterprises,Agra,Uttar Pradesh,282076,3.6,2025-07-12
+PROD00416,Lehenga Choli - Classic Style,Women Ethnic Wear,Lehenga Choli,Divine Ethnic Wear,375,357,Yes,Rao Collections,Muzaffarpur,Bihar,842049,3.5,2024-10-05
+PROD00417,Track Pant - Casual Design,Men Fashion,Track Pant,Priya Creations,836,40,Yes,Malhotra Impex,Rajkot,Gujarat,360073,,2025-05-26
+PROD00418,Ladies Handbag - Casual Style,Bags & Wallets,Ladies Handbag,Divine Ethnic Wear,1163,,No,Ansari Collections,Guwahati,Assam,781006,,2024-07-11
+PROD00419,Cotton Shirt - Daily Wear Design,Men Fashion,Cotton Shirt,Comfort Zone India,1444,83,Yes,Joshi Wholesale Mart,Gaya,Bihar,823086,5,2024-08-06
+PROD00420,Flat Sandals - Casual Fit,Footwear,Flat Sandals,Comfort Zone India,926,194,No,Singh Collections,Warangal,Telangana,506015,4,2025-10-28
